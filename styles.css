@@ -42,7 +42,7 @@ html,body{
 }
 
   
-  /* Remove incrementor in number input 
+  /* Remove incrementor in number input */
   input::-webkit-outer-spin-button,
   input::-webkit-inner-spin-button {
     -webkit-appearance: none;
@@ -50,5 +50,5 @@ html,body{
   }
   input[type="number"] {
     -moz-appearance: textfield;
-  }*/
+  }
   
